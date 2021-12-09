@@ -1,10 +1,10 @@
 # Yolo Tools
 
-Watt Yolo 학습을 위한 Tool  </br></br>
+Yolo 학습을 위한 Tool  </br></br>
 
 ## Install
 ```
-git clone --recursive 
+git clone --recursive https://github.com/kissw/Yolo_tools.git
 ```
 
 
