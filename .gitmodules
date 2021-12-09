@@ -1,0 +1,15 @@
+[submodule "dataset_class_count"]
+	path = dataset_class_count
+	url = https://github.com/kissw/dataset_class_count.git
+[submodule "label_editor"]
+	path = label_editor
+	url = https://github.com/kissw/label_editor.git
+[submodule "yolo_txt_generator"]
+	path = yolo_txt_generator
+	url = https://github.com/kissw/yolo_txt_generator.git
+[submodule "data_augmentation"]
+	path = data_augmentation
+	url = https://github.com/kissw/data_augmentation.git
+[submodule "Yolo_mark"]
+	path = Yolo_mark
+	url = https://github.com/AlexeyAB/Yolo_mark.git
