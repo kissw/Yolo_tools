@@ -15,4 +15,4 @@
 	url = https://github.com/AlexeyAB/Yolo_mark.git
 [submodule "ros_node_onoff"]
 	path = ros_node_onoff
-	url = https://github.com/kissw/ros_node_onoff
+	url = https://github.com/kissw/ros_node_onoff.git
