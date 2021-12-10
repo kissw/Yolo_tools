@@ -1,18 +1,24 @@
 [submodule "dataset_class_count"]
 	path = dataset_class_count
 	url = https://github.com/kissw/dataset_class_count.git
+	branch = master
 [submodule "label_editor"]
 	path = label_editor
 	url = https://github.com/kissw/label_editor.git
+	branch = master
 [submodule "yolo_txt_generator"]
 	path = yolo_txt_generator
 	url = https://github.com/kissw/yolo_txt_generator.git
+	branch = master
 [submodule "data_augmentation"]
 	path = data_augmentation
 	url = https://github.com/kissw/data_augmentation.git
+	branch = master
 [submodule "Yolo_mark"]
 	path = Yolo_mark
 	url = https://github.com/AlexeyAB/Yolo_mark.git
+	branch = master
 [submodule "ros_node_onoff"]
 	path = ros_node_onoff
 	url = https://github.com/kissw/ros_node_onoff.git
+	branch = master
